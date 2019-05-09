@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="PowerConduit">
+		<defName>PowerConduitInvisible</defName>
+		<label>underground power conduit</label>
+		<description>Insulated electrical cables for transmitting power underground. Much more labor intensive compared to laying down surface conduits.</description>
+		<graphicData>
+			<texPath>Things/Building/Linked/Alpha_Atlas</texPath>
+		</graphicData>
+		<uiIconPath>Things/Building/Linked/PowerConduit_Underground_MenuIcon</uiIconPath>
+		<statBases>
+			<WorkToBuild>550</WorkToBuild>
+			<Flammability>0.0</Flammability>
+			<Beauty>0</Beauty>
+		</statBases>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+	</ThingDef>
+	
+	<DesignatorDropdownGroupDef>
+		<defName>PowerConduits</defName> 
+	</DesignatorDropdownGroupDef>
+</Defs>

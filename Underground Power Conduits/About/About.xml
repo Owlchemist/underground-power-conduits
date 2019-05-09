@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Underground Power Conduits</name>
+	<author>Owlchemist</author>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+	<description>
+		A small mod which simply lets you build power conduits underground. It uses the same amount of resources, as it is essentially the exact same thing, but the trench building process is over 10x more labor intensive compared to laying down surface cables.
+		
+		This mod derives from old2's beta19 version of this mod.
+	</description>
+</ModMetaData>

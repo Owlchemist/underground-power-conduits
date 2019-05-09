@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="PowerConduit"][not(designatorDropdown)]</xpath>
+		<value>
+			<designatorDropdown>PowerConduits</designatorDropdown>
+		</value>
+	</Operation>
+</Patch>	
