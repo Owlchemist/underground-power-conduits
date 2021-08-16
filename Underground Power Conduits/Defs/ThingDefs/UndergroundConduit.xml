@@ -15,6 +15,25 @@
 		</statBases>
 		<altitudeLayer>FloorEmplacement</altitudeLayer>
 	</ThingDef>
+	<ThingDef ParentName="PowerConduit">
+		<defName>WaterproofPowerConduitInvisible</defName>
+		<label>underground waterproof power conduit</label>
+		<description>Insulated electrical cables for transmitting power underground and underwater. Much more labor intensive compared to laying down surface conduits.</description>
+		<graphicData>
+			<texPath>Things/Building/Linked/Alpha_Atlas</texPath>
+		</graphicData>
+		<uiIconPath>Things/Building/Linked/PowerConduit_Underground_MenuIcon</uiIconPath>
+		<statBases>
+			<WorkToBuild>1100</WorkToBuild>
+			<Flammability>0.0</Flammability>
+			<Beauty>0</Beauty>
+		</statBases>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<terrainAffordanceNeeded>ShallowWater</terrainAffordanceNeeded>
+		<costList>
+			<Steel>10</Steel>
+		</costList>
+	</ThingDef>
 	
 	<DesignatorDropdownGroupDef>
 		<defName>PowerConduits</defName> 
