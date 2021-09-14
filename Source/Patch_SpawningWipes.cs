@@ -16,11 +16,14 @@ namespace UndergroundConduits
     {
         private static void Postfix(BuildableDef newEntDef, BuildableDef oldEntDef, ref bool __result)
         {
-            if (newEntDef.ChangeType<ThingDef>().EverTransmitsPower && oldEntDef.HasModExtension<PowerConduit>()) __result = true;
+            
+            var newThing = newEntDef as ThingDef;
+			var oldThing = oldEntDef as ThingDef;
+            if (newThing != null && oldThing != null && newThing.EverTransmitsPower && oldThing.HasModExtension<PowerConduit>()) __result = true;
         }
     }
 
-    public class PowerConduit : DefModExtension 
+    public class PowerConduit : DefModExtension
 	{
 	}
 }
