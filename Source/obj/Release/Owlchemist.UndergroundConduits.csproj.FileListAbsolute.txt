@@ -1,0 +1,8 @@
+C:\Games\Steam\steamapps\common\Mods\Underground Power Conduits\Assemblies\UndergroundConduits.dll
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-conduits\Source\obj\Release\Owlchemist.UndergroundConduits.csproj.AssemblyReference.cache
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-conduits\Source\obj\Release\Owlchemist.UndergroundConduits.csproj.CoreCompileInputs.cache
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-conduits\Source\obj\Release\UndergroundConduits.dll
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Underground Power Conduits\Assemblies\UndergroundConduits.dll
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-power-conduits\Source\obj\Release\Owlchemist.UndergroundConduits.csproj.AssemblyReference.cache
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-power-conduits\Source\obj\Release\Owlchemist.UndergroundConduits.csproj.CoreCompileInputs.cache
+C:\Games\Steam\steamapps\common\RimWorld\Development\underground-power-conduits\Source\obj\Release\UndergroundConduits.dll

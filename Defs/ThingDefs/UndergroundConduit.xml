@@ -14,6 +14,12 @@
 			<Beauty>0</Beauty>
 		</statBases>
 		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<building>
+			<ai_neverTrashThis>true</ai_neverTrashThis>
+		</building>
+		<modExtensions>
+			<li Class="UndergroundConduits.PowerConduit" />
+		</modExtensions>
 	</ThingDef>
 	<ThingDef ParentName="PowerConduit">
 		<defName>WaterproofPowerConduitInvisible</defName>
@@ -33,6 +39,12 @@
 		<costList>
 			<Steel>10</Steel>
 		</costList>
+		<building>
+			<ai_neverTrashThis>true</ai_neverTrashThis>
+		</building>
+		<modExtensions>
+			<li Class="UndergroundConduits.PowerConduit" />
+		</modExtensions>
 	</ThingDef>
 	
 	<DesignatorDropdownGroupDef>
