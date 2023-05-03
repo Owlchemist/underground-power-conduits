@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PowerConduitInvisible.label>подземный кабель</PowerConduitInvisible.label>
+  <PowerConduitInvisible.description>Изолированные электрические кабели для передачи электроэнергии под землей. Гораздо более трудоемкий процесс по сравнению с прокладкой наземных кабелей.</PowerConduitInvisible.description>
+  <PowerConduitInvisible_Blueprint.label>подземный кабель (чертеж)</PowerConduitInvisible_Blueprint.label>
+  <PowerConduitInvisible_Frame.label>подземный кабель (строительство)</PowerConduitInvisible_Frame.label>
+  <PowerConduitInvisible_Frame.description>Изолированные электрические кабели для передачи электроэнергии под землей. Гораздо более трудоемкий процесс по сравнению с прокладкой наземных кабелей.</PowerConduitInvisible_Frame.description>
+
+  <WaterproofPowerConduitInvisible.label>подземный водостойкий кабель</WaterproofPowerConduitInvisible.label>
+  <WaterproofPowerConduitInvisible.description>Изолированные электрические кабели для передачи электроэнергии под землей и под водой. Гораздо более трудоемкий процесс по сравнению с прокладкой наземных кабелей.</WaterproofPowerConduitInvisible.description>
+  <WaterproofPowerConduitInvisible_Blueprint.label>подземный водостойкий кабель (чертеж)</WaterproofPowerConduitInvisible_Blueprint.label>
+  <WaterproofPowerConduitInvisible_Frame.label>подземный водостойкий кабель (строительство)</WaterproofPowerConduitInvisible_Frame.label>
+  <WaterproofPowerConduitInvisible_Frame.description>Изолированные электрические кабели для передачи электроэнергии под землей и под водой. Гораздо более трудоемкий процесс по сравнению с прокладкой наземных кабелей.</WaterproofPowerConduitInvisible_Frame.description>
+
+
+</LanguageData>
